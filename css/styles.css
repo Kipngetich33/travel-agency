@@ -69,11 +69,22 @@ body{
   color: #7dc410;
   font-family: fantasy;
   padding: 10px;
-
+  }
+.tropical p {
+  color: #7dc410;
+}
+.tropical h2{
+  color:#f7325e;
 }
 .popular{
   color:#ff80ff;
   font-family: cursive;
+}
+.popular h2{
+  color:purple;
+}
+.popular p{
+  color: gray;
 }
 #jamaica-image {
   width: 200px;
