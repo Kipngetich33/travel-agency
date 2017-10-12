@@ -68,11 +68,16 @@ body{
 .tropical{
   color: #7dc410;
   font-family: fantasy;
+  padding: 10px;
+
 }
 .popular{
   color:#ff80ff;
   font-family: cursive;
 }
 #jamaica-image {
+  width: 200px;
+  height: 200px;
   float: left;
+  padding: 10px;
 }
