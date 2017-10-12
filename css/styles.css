@@ -51,8 +51,28 @@ p {
 }
 body{
   background-color: #e6ffff
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-left: auto;
 }
 .header1{
   font-style: italic;
 
+}
+.header2 {
+  color:orange;
+  font-style: italic;
+  font-family: sans-serif;
+  text-align: center;
+}
+.tropical{
+  color: #7dc410;
+  font-family: fantasy;
+}
+.popular{
+  color:#ff80ff;
+  font-family: cursive;
+}
+#jamaica-image {
+  float: left;
 }
